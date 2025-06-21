@@ -1,3 +1,5 @@
+Deploy Newel store - Ecommerce Website on Static Site on EC2 (Amazon Linux + NGINX)
+
 # Newel Store - Ecommerce Website
 
 This is a simple static ecommerce website for **Newel Store**, showcasing shoes and bags. The website is hosted on an AWS EC2 instance using Apache HTTP server.
